@@ -20,18 +20,17 @@
 ---
 
 ## 📊 GitHub Analytics
- 
-<div align="center">
- 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Teerapat-dev1&show_icons=true&theme=tokyonight&hide_border=true%22 height="165" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Teerapat-dev1&layout=compact&theme=tokyonight&hide_border=true%22 height="165" />
- 
-<br/><br/>
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true%22 width="100%" />
- 
-</div>
 
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Teerapat-dev1&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Teerapat-dev1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true" width="100%" />
+
+</div>
 --- 
 
 ### 📫 Connect with Me
