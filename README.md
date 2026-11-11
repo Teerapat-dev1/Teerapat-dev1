@@ -38,10 +38,10 @@ I enjoy building things for the web and exploring game development.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Teerapat-dev1&show_icons=true&theme=tokyonight&hide_border=true" alt="Teerapat's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teerapat-dev1&layout=compact&theme=tokyonight&hide_border=true" alt="Teerapat's most used languages" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Teerapat-dev1&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Teerapat-dev1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-<br /><br />
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teerapat-dev1&theme=react-dark&hide_border=true" alt="Teerapat's GitHub activity graph" width="95%" />
 
