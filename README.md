@@ -1,9 +1,9 @@
 # Hi there, I'm Teerapat<span type="placeholder" placeholder-type="person"></span> 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at **<span type="placeholder" placeholder-type="place"></span>**
-- 💡 Interested in **Software Engineering, Web Development, and Cloud Technologies**
-- 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
+- 🎓 Computer Science Student at University of Phayao**<span type="placeholder" placeholder-type="place"></span>**
+- 💡 Interested in **Create a gam and Web Development**
+- 🎯 Current Goal: Learning Full-Stack Software Development and Game Creation
 - 💬 Ask me about **JavaScript, Python, and Web Frameworks**
 
 ---
