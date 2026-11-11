@@ -1,4 +1,4 @@
-# Hi there, I'm Teerapat<span type="placeholder" placeholder-type="person"></span> 👋
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/3c9dea6c-fe58-4520-82f9-a79da3467095" /># Hi there, I'm Teerapat<span type="placeholder" placeholder-type="person"></span> 👋
 
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student at University of Phayao**<span type="placeholder" placeholder-type="place"></span>**
@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="[https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true](https://avatars.githubusercontent.com/u/355217559?v=4)" width="100%" />
+<img src="[[https://github-readme-activity-graph.vercel.app/graph?username=Teerapat-dev1&theme=react-dark&hide_border=true](https://avatars.githubusercontent.com/u/355217559?v=4)](https://avatars.githubusercontent.com/u/355217559?v=4)" width="100%" />
 
 </div>
 ---
