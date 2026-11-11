@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true" width="100%" />
+<img src="[https://github-readme-activity-graph.vercel.app/graph?username=thammarat-ai&theme=react-dark&hide_border=true](https://avatars.githubusercontent.com/u/355217559?v=4)" width="100%" />
 
 </div>
 ---
